@@ -1,0 +1,14 @@
+# Compiled binaries
+/build/*
+!/build/.gitkeep
+/keylogger
+/Rev_keylogger
+*.o
+*.out
+
+# Editor settings
+.vscode/
+
+# Debugging
+core
+core.*
